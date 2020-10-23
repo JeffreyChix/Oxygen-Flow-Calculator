@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Oxygen-Flow-Calculator/precache-manifest.d8d8a6df90fc5edceacd287db798be4c.js"
+  "/Oxygen-Flow-Calculator/precache-manifest.bd9247c36812d0544b2123fba0bbcf26.js"
 );
 
 self.addEventListener('message', (event) => {
